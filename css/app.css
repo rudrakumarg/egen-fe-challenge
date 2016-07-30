@@ -1,0 +1,29 @@
+body {
+
+}
+.card {
+	background: url(../images/sprite_credit_card_logos.png);
+	background-position: -654px -329px;
+	width: 70px;
+	height: 43px;
+}
+.default {
+	background-position: -654px -329px;
+}
+.visa {
+	background-position: -402px -38px;
+}
+.mastercard {
+	background-position: -486px -38px;
+}
+.mastero {
+	background-position: -570px -39px;
+}
+
+.discover {
+	background-position: -487px -214px;
+}
+.amex {
+	background-position: -486px -330px;
+}
+
